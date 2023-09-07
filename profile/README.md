@@ -34,5 +34,5 @@ GUIDELY는 시각장애인과 비장애인이 함께 베리어프리 사회를 �
 ## Client
 이미지 추가
 
-## Cooperation
+## Notion Link
 https://www.notion.so/Guidely-acc2a88aacf64c12972b8bf868fe7cc8?pvs=4
