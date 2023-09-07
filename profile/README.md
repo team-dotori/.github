@@ -25,6 +25,12 @@ GUIDELY는 시각장애인과 비장애인이 함께 배리어프리 사회를 �
 |박정민|[jungmiinn](https://github.com/jungmiinn)|pjm9562@naver.com|
 |송현준|[HyeonJunSong](https://github.com/HyeonJunSong)|music9801@naver.com|
 
+## 디자이너
+|Name|GitHub|Email|
+|------|---|---|
+|허연주|-|zx12cv7410@naver.com|
+
+
 
 # 개발 환경 및 개발 언어
 
