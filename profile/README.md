@@ -32,7 +32,7 @@ GUIDELY는 시각장애인과 비장애인이 함께 배리어프리 사회를 �
 ![Untitled](https://github.com/team-dotori/.github/assets/76022058/f3927b84-2011-4a80-882d-762e0c9cd34d)
 
 ## Client
-이미지 추가
+<img width="760" alt="스크린샷 2023-09-07 오후 10 38 34" src="https://github.com/team-dotori/.github/assets/76022058/2f053e5a-d383-4794-b997-2ae30e937f61">
 
 ## Notion Link
 https://www.notion.so/Guidely-acc2a88aacf64c12972b8bf868fe7cc8?pvs=4
