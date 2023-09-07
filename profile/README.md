@@ -27,5 +27,8 @@ GUIDELY는 시각장애인과 비장애인이 함께 베리어프리 사회를 �
 
 ---
 
-##개발 환경 및 개발 언어
-<img width="500" alt="image" src="notion://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffa6755da-4de6-42f6-a1e4-448cc39d873d%2F90582f9d-f81c-4fd2-9fe9-f3ff92e32102%2FUntitled.png?table=block&id=f74b12ad-0c6d-4d7f-aefc-0d5cfb09024c&spaceId=fa6755da-4de6-42f6-a1e4-448cc39d873d&width=1800&userId=7c0a3de5-8a86-4602-8715-68ea5c9caaa2&cache=v2">
+## 개발 환경 및 개발 언어
+
+- Server
+  
+<img width="500" alt="image" src="https://www.notion.so/98e5e8d8f2b84119b74602f0fa18a96c?pvs=4#f74b12ad0c6d4d7faefc0d5cfb09024c">
