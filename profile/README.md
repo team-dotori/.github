@@ -29,8 +29,10 @@ GUIDELY는 시각장애인과 비장애인이 함께 베리어프리 사회를 �
 # 개발 환경 및 개발 언어
 
 ## Server
+이미지 추가
 
 ## Client
+이미지 추가
 
 ## Cooperation
 https://www.notion.so/98e5e8d8f2b84119b74602f0fa18a96c?pvs=4
