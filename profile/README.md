@@ -24,3 +24,8 @@ GUIDELY는 시각장애인과 비장애인이 함께 베리어프리 사회를 �
 |------|---|---|
 |박정민|[jungmiinn](https://github.com/jungmiinn)|pjm9562@naver.com|
 |송현준|[HyeonJunSong](https://github.com/HyeonJunSong)|music9801@naver.com|
+
+---
+
+##개발 환경 및 개발 언어
+<img width="500" alt="image" src="notion://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffa6755da-4de6-42f6-a1e4-448cc39d873d%2F90582f9d-f81c-4fd2-9fe9-f3ff92e32102%2FUntitled.png?table=block&id=f74b12ad-0c6d-4d7f-aefc-0d5cfb09024c&spaceId=fa6755da-4de6-42f6-a1e4-448cc39d873d&width=1800&userId=7c0a3de5-8a86-4602-8715-68ea5c9caaa2&cache=v2">
