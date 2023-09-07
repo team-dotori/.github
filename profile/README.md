@@ -28,7 +28,7 @@ GUIDELY는 시각장애인과 비장애인이 함께 배리어프리 사회를 �
 ## 디자이너
 |Name|GitHub|Email|
 |------|---|---|
-|허연주|""|zx12cv7410@naver.com|
+|허연주| |zx12cv7410@naver.com|
 
 
 
